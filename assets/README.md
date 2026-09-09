@@ -1,0 +1,1 @@
+The `provided/` folder contains the three sample images available in this workspace. The other challenge links were not directly mounted here, so the app includes small local demo poster/banner artwork to keep `docker compose up` self-contained.

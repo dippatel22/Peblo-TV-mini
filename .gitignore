@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+node_modules/
+dist/
+.env
+.DS_Store
+storage/catalog.json
+storage/catalog.*.json
+storage/artwork/*
+!storage/artwork/.gitkeep
